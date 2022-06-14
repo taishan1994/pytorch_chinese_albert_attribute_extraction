@@ -1,5 +1,5 @@
 # pytorch_chinese_albert_attribute_extraction
-基于pytorch_albert的中文属性抽取，该项目是在：https://github.com/hackerxiaobai/OpenTag_2019上进行的一些改动。数据和模型下载地址：<br>
+基于pytorch_albert的中文属性抽取，该项目是在：https://github.com/hackerxiaobai/OpenTag_2019 上进行的一些改动。数据和模型下载地址：<br>
 
 链接：https://pan.baidu.com/s/1QQmwB1NVkuhE-46fbMeYNw?pwd=egry <br>
 提取码：egry<br>
